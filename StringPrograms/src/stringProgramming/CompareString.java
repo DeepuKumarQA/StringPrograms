@@ -1,4 +1,4 @@
-package stringProgramming;
+package stringProgramming; // this is the code for string and also checking comparison between two string.
 
 public class CompareString {
 
